@@ -1,0 +1,7 @@
+    WARNING: € (U+20ac) is already defined more than once on the keyboard (on VK_E, ShiftState 'Ctl+Alt' and VK_5, ShiftState 'Ctl+Alt').
+    WARNING: The character ← (U+2190) exists in the entry for VK_OEM_102, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Italian (Italy) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character → (U+2192) exists in the entry for VK_OEM_102, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Italian (Italy) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: '<' defined on OEM_102 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '>' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '←' defined on OEM_102 (Ctl+Alt) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '→' defined on OEM_102 (Shift+Ctl+Alt) but not defined elsewhere. This key may not be present on all keyboards.
